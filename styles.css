@@ -1,0 +1,28 @@
+body{
+    background-color: #E76161;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* top section */
+
+#top{
+    text-align: center;
+}
+#top h1{
+    font-size: 3em;
+    font-family: 'Kaushan Script', cursive;
+}
+/* end of top section  */
+/* middle section */
+#middle .message h3 {
+    font-family: 'Kaushan Script', cursive;
+}
+/* end of middle section  */
+
+/* .big-title{
+    font-size: 5rem;
+    border: 1px #000 dotted;
+    font-family: fantasy;
+} */
